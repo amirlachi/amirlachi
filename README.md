@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amirlachi
+- 👋 Hi, I’m amir lachinani
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
